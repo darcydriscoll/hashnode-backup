@@ -136,7 +136,7 @@ If it wasn't obvious already, Xero treated me great and I loved working there. S
 
 Also, this is my first blog post. Got any feedback? I welcome it.
 
-![A GeoCities gif of a little mouse waving at you.](https://cdn.hashnode.com/res/hashnode/image/upload/v1644988664869/SqDdCAPwl.gif)
+![A GeoCities gif of a little mouse waving at you.](https://i.imgur.com/dXNDJpo.gif)
 *Source: [GifCities](https://gifcities.org)*
 
 ----
