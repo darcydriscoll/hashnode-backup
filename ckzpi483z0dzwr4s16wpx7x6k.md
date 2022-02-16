@@ -4,7 +4,7 @@ Hi, I'm Darcy.
 
 Think fast! Here's a picture of my face with my favourite GeoCities gifs:
 
-![My face in front of a verdant garden. GeoCities gifs overlay it: a unicorn, a pegasus, and a spinning rainbow moon.](https://cdn.hashnode.com/res/hashnode/image/upload/v1644985306399/H3Z7mJFTj.gif)
+![My face in front of a verdant garden. GeoCities gifs overlay it: a unicorn, a pegasus, and a spinning rainbow moon.](https://i.imgur.com/nPfEpOp.gif)
 *Source: [GifCities](https://gifcities.org)*
 
 For the past four months, I interned as a software engineer over at [Xero](https://www.xero.com). It's a company that makes accounting software for small businesses.
